@@ -8,7 +8,7 @@
     "ios-device": "react-native run-ios --device \"WeeferPhone\"",
     "start": "react-native start",
     "test": "jest",
-    "lint": "eslint ."
+    "lint": "eslint . --fix"
   },
   "dependencies": {
     "react": "18.0.0",
